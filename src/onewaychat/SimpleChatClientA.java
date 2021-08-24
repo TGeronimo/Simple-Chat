@@ -26,7 +26,7 @@ public class SimpleChatClientA {
         mainPanel.add(sendButton);
         frame.getContentPane().add(BorderLayout.CENTER, mainPanel);
         setUpNetworking();
-        frame.setSize(400,500);
+        frame.setSize(400,100);
         frame.setVisible(true);
     }
 
