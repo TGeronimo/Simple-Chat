@@ -1,4 +1,4 @@
-package onewaychat;
+package improvedchatclient;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
